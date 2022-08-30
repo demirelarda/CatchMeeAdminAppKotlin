@@ -11,7 +11,7 @@ This is the admin app for my `CatchMee` game. Admins can do various things with 
 * You can edit User's editable information(username, email etc.) 
 * You can see all of the user data from edit section. (Last seen online, all scores he/she made, User ID, Notification Token etc.)
 
-#Technical Details
+## Technical Details
 * Using Firebase for backend.
 * Using Firestore for saving product details.
 * Using FCM for notification system.
