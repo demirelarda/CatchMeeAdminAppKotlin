@@ -14,7 +14,8 @@ This is the admin app for my `CatchMee` game. Admins can do various things with 
 ## Technical Details
 * Using Firebase for backend.
 * Using Firestore for saving product details.
-* Using FCM for notification system.
+* Using FCM and retrofit for notification system.
+
 
 ## Database Structure
 ![ss5](https://user-images.githubusercontent.com/93993257/187507551-a7c3d867-4d89-4f71-a1b0-17de262728e0.PNG)
